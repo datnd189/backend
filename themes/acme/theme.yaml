@@ -1,0 +1,16 @@
+name: Acme
+description: 'Simple Bootstrap'
+author: 'nguyen duc dat'
+homepage: google.com.vn
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: the global website name
+      default: Acme
+    site_description:
+      label: Site description
+      comment: the global website description
+      default: lorem ipsum .....
+
